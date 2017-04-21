@@ -19,9 +19,26 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>1</string>
+	<string>1.0</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Mark Simonson - Proxima Nova Thin.otf</string>
+		<string>Mark Simonson - Proxima Nova Thin Italic.otf</string>
+		<string>Mark Simonson - Proxima Nova Semibold.otf</string>
+		<string>Mark Simonson - Proxima Nova Semibold Italic.otf</string>
+		<string>Mark Simonson - Proxima Nova Condensed Thin.otf</string>
+		<string>Mark Simonson - Proxima Nova Condensed Thin Italic.otf</string>
+		<string>Mark Simonson - Proxima Nova Condensed Semibold.otf</string>
+		<string>Mark Simonson - Proxima Nova Condensed Semibold Italic.otf</string>
+		<string>Mark Simonson - Proxima Nova Condensed Light.otf</string>
+		<string>Mark Simonson - Proxima Nova Condensed Light Italic.otf</string>
+		<string>Mark Simonson - Proxima Nova Condensed Black.otf</string>
+		<string>Mark Simonson - Proxima Nova Condensed Black Italic.otf</string>
+		<string>Mark Simonson - Proxima Nova Black.otf</string>
+		<string>Mark Simonson - Proxima Nova Black Italic.otf</string>
+	</array>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
@@ -39,23 +56,6 @@
 	<array>
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
-	</array>
-	<key>UIAppFonts</key>
-	<array>
-		<string>Mark Simonson - Proxima Nova Thin.otf</string>
-		<string>Mark Simonson - Proxima Nova Thin Italic.otf</string>
-		<string>Mark Simonson - Proxima Nova Semibold.otf</string>
-		<string>Mark Simonson - Proxima Nova Semibold Italic.otf</string>
-		<string>Mark Simonson - Proxima Nova Condensed Thin.otf</string>
-		<string>Mark Simonson - Proxima Nova Condensed Thin Italic.otf</string>
-		<string>Mark Simonson - Proxima Nova Condensed Semibold.otf</string>
-		<string>Mark Simonson - Proxima Nova Condensed Semibold Italic.otf</string>
-		<string>Mark Simonson - Proxima Nova Condensed Light.otf</string>
-		<string>Mark Simonson - Proxima Nova Condensed Light Italic.otf</string>
-		<string>Mark Simonson - Proxima Nova Condensed Black.otf</string>
-		<string>Mark Simonson - Proxima Nova Condensed Black Italic.otf</string>
-		<string>Mark Simonson - Proxima Nova Black.otf</string>
-		<string>Mark Simonson - Proxima Nova Black Italic.otf</string>
 	</array>
 </dict>
 </plist>
