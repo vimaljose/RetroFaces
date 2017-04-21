@@ -14,6 +14,21 @@
 		03B91B951EA9BDE800472EA4 /* RetroFaces.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 03B91B931EA9BDE800472EA4 /* RetroFaces.xcdatamodeld */; };
 		03B91B971EA9BDE800472EA4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 03B91B961EA9BDE800472EA4 /* Assets.xcassets */; };
 		03B91B9A1EA9BDE800472EA4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 03B91B981EA9BDE800472EA4 /* LaunchScreen.storyboard */; };
+		03B91BA31EA9C3ED00472EA4 /* SummaryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 03B91BA21EA9C3EC00472EA4 /* SummaryViewController.m */; };
+		03B91BB31EAA037400472EA4 /* Mark Simonson - Proxima Nova Black Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 03B91BA51EAA037400472EA4 /* Mark Simonson - Proxima Nova Black Italic.otf */; };
+		03B91BB41EAA037400472EA4 /* Mark Simonson - Proxima Nova Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 03B91BA61EAA037400472EA4 /* Mark Simonson - Proxima Nova Black.otf */; };
+		03B91BB51EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Black Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 03B91BA71EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Black Italic.otf */; };
+		03B91BB61EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 03B91BA81EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Black.otf */; };
+		03B91BB71EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Light Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 03B91BA91EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Light Italic.otf */; };
+		03B91BB81EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 03B91BAA1EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Light.otf */; };
+		03B91BB91EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Semibold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 03B91BAB1EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Semibold Italic.otf */; };
+		03B91BBA1EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 03B91BAC1EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Semibold.otf */; };
+		03B91BBB1EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Thin Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 03B91BAD1EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Thin Italic.otf */; };
+		03B91BBC1EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = 03B91BAE1EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Thin.otf */; };
+		03B91BBD1EAA037400472EA4 /* Mark Simonson - Proxima Nova Semibold Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 03B91BAF1EAA037400472EA4 /* Mark Simonson - Proxima Nova Semibold Italic.otf */; };
+		03B91BBE1EAA037400472EA4 /* Mark Simonson - Proxima Nova Semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 03B91BB01EAA037400472EA4 /* Mark Simonson - Proxima Nova Semibold.otf */; };
+		03B91BBF1EAA037400472EA4 /* Mark Simonson - Proxima Nova Thin Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 03B91BB11EAA037400472EA4 /* Mark Simonson - Proxima Nova Thin Italic.otf */; };
+		03B91BC01EAA037400472EA4 /* Mark Simonson - Proxima Nova Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = 03B91BB21EAA037400472EA4 /* Mark Simonson - Proxima Nova Thin.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +43,22 @@
 		03B91B961EA9BDE800472EA4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		03B91B991EA9BDE800472EA4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		03B91B9B1EA9BDE800472EA4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		03B91BA11EA9C3EC00472EA4 /* SummaryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SummaryViewController.h; sourceTree = "<group>"; };
+		03B91BA21EA9C3EC00472EA4 /* SummaryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SummaryViewController.m; sourceTree = "<group>"; };
+		03B91BA51EAA037400472EA4 /* Mark Simonson - Proxima Nova Black Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mark Simonson - Proxima Nova Black Italic.otf"; sourceTree = "<group>"; };
+		03B91BA61EAA037400472EA4 /* Mark Simonson - Proxima Nova Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mark Simonson - Proxima Nova Black.otf"; sourceTree = "<group>"; };
+		03B91BA71EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Black Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mark Simonson - Proxima Nova Condensed Black Italic.otf"; sourceTree = "<group>"; };
+		03B91BA81EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mark Simonson - Proxima Nova Condensed Black.otf"; sourceTree = "<group>"; };
+		03B91BA91EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Light Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mark Simonson - Proxima Nova Condensed Light Italic.otf"; sourceTree = "<group>"; };
+		03B91BAA1EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mark Simonson - Proxima Nova Condensed Light.otf"; sourceTree = "<group>"; };
+		03B91BAB1EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Semibold Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mark Simonson - Proxima Nova Condensed Semibold Italic.otf"; sourceTree = "<group>"; };
+		03B91BAC1EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Semibold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mark Simonson - Proxima Nova Condensed Semibold.otf"; sourceTree = "<group>"; };
+		03B91BAD1EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Thin Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mark Simonson - Proxima Nova Condensed Thin Italic.otf"; sourceTree = "<group>"; };
+		03B91BAE1EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Thin.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mark Simonson - Proxima Nova Condensed Thin.otf"; sourceTree = "<group>"; };
+		03B91BAF1EAA037400472EA4 /* Mark Simonson - Proxima Nova Semibold Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mark Simonson - Proxima Nova Semibold Italic.otf"; sourceTree = "<group>"; };
+		03B91BB01EAA037400472EA4 /* Mark Simonson - Proxima Nova Semibold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mark Simonson - Proxima Nova Semibold.otf"; sourceTree = "<group>"; };
+		03B91BB11EAA037400472EA4 /* Mark Simonson - Proxima Nova Thin Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mark Simonson - Proxima Nova Thin Italic.otf"; sourceTree = "<group>"; };
+		03B91BB21EAA037400472EA4 /* Mark Simonson - Proxima Nova Thin.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mark Simonson - Proxima Nova Thin.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,10 +91,13 @@
 		03B91B861EA9BDE800472EA4 /* RetroFaces */ = {
 			isa = PBXGroup;
 			children = (
+				03B91BA41EAA037400472EA4 /* Fonts */,
 				03B91B8A1EA9BDE800472EA4 /* AppDelegate.h */,
 				03B91B8B1EA9BDE800472EA4 /* AppDelegate.m */,
 				03B91B8D1EA9BDE800472EA4 /* ViewController.h */,
 				03B91B8E1EA9BDE800472EA4 /* ViewController.m */,
+				03B91BA11EA9C3EC00472EA4 /* SummaryViewController.h */,
+				03B91BA21EA9C3EC00472EA4 /* SummaryViewController.m */,
 				03B91B901EA9BDE800472EA4 /* Main.storyboard */,
 				03B91B961EA9BDE800472EA4 /* Assets.xcassets */,
 				03B91B981EA9BDE800472EA4 /* LaunchScreen.storyboard */,
@@ -80,6 +114,27 @@
 				03B91B881EA9BDE800472EA4 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		03B91BA41EAA037400472EA4 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				03B91BA51EAA037400472EA4 /* Mark Simonson - Proxima Nova Black Italic.otf */,
+				03B91BA61EAA037400472EA4 /* Mark Simonson - Proxima Nova Black.otf */,
+				03B91BA71EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Black Italic.otf */,
+				03B91BA81EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Black.otf */,
+				03B91BA91EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Light Italic.otf */,
+				03B91BAA1EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Light.otf */,
+				03B91BAB1EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Semibold Italic.otf */,
+				03B91BAC1EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Semibold.otf */,
+				03B91BAD1EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Thin Italic.otf */,
+				03B91BAE1EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Thin.otf */,
+				03B91BAF1EAA037400472EA4 /* Mark Simonson - Proxima Nova Semibold Italic.otf */,
+				03B91BB01EAA037400472EA4 /* Mark Simonson - Proxima Nova Semibold.otf */,
+				03B91BB11EAA037400472EA4 /* Mark Simonson - Proxima Nova Thin Italic.otf */,
+				03B91BB21EAA037400472EA4 /* Mark Simonson - Proxima Nova Thin.otf */,
+			);
+			path = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -140,8 +195,22 @@
 			buildActionMask = 2147483647;
 			files = (
 				03B91B9A1EA9BDE800472EA4 /* LaunchScreen.storyboard in Resources */,
+				03B91BBE1EAA037400472EA4 /* Mark Simonson - Proxima Nova Semibold.otf in Resources */,
+				03B91BBA1EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Semibold.otf in Resources */,
+				03B91BC01EAA037400472EA4 /* Mark Simonson - Proxima Nova Thin.otf in Resources */,
+				03B91BB71EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Light Italic.otf in Resources */,
+				03B91BBB1EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Thin Italic.otf in Resources */,
+				03B91BB61EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Black.otf in Resources */,
+				03B91BB41EAA037400472EA4 /* Mark Simonson - Proxima Nova Black.otf in Resources */,
+				03B91BB51EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Black Italic.otf in Resources */,
+				03B91BB91EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Semibold Italic.otf in Resources */,
+				03B91BB81EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Light.otf in Resources */,
+				03B91BB31EAA037400472EA4 /* Mark Simonson - Proxima Nova Black Italic.otf in Resources */,
+				03B91BBD1EAA037400472EA4 /* Mark Simonson - Proxima Nova Semibold Italic.otf in Resources */,
 				03B91B971EA9BDE800472EA4 /* Assets.xcassets in Resources */,
 				03B91B921EA9BDE800472EA4 /* Main.storyboard in Resources */,
+				03B91BBF1EAA037400472EA4 /* Mark Simonson - Proxima Nova Thin Italic.otf in Resources */,
+				03B91BBC1EAA037400472EA4 /* Mark Simonson - Proxima Nova Condensed Thin.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -155,6 +224,7 @@
 				03B91B8F1EA9BDE800472EA4 /* ViewController.m in Sources */,
 				03B91B951EA9BDE800472EA4 /* RetroFaces.xcdatamodeld in Sources */,
 				03B91B8C1EA9BDE800472EA4 /* AppDelegate.m in Sources */,
+				03B91BA31EA9C3ED00472EA4 /* SummaryViewController.m in Sources */,
 				03B91B891EA9BDE800472EA4 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -273,6 +343,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.armor.RetroFaces;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -284,6 +355,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.armor.RetroFaces;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};

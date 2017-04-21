@@ -9,6 +9,8 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+- (IBAction)btnSmileyPressed:(UIButton *)sender;
+- (IBAction)btnInfoPressed:(id)sender;
 
 
 @end
