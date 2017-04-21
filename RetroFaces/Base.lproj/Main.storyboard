@@ -42,7 +42,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="infoLight" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2kL-mf-1o5">
-                                <rect key="frame" x="570" y="76" width="22" height="22"/>
+                                <rect key="frame" x="570" y="72" width="22" height="22"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <connections>
                                     <action selector="btnInfoPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="UGe-l3-Ypn"/>
@@ -64,7 +64,7 @@
                             <constraint firstAttribute="trailing" secondItem="2kL-mf-1o5" secondAttribute="trailing" constant="8" id="gQJ-zt-DgI"/>
                             <constraint firstItem="COQ-Jv-QHA" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="kmL-Be-Dkh"/>
                             <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="COQ-Jv-QHA" secondAttribute="bottom" id="ngF-PT-eTj"/>
-                            <constraint firstItem="2kL-mf-1o5" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="12" id="qoz-gP-TyF"/>
+                            <constraint firstItem="2kL-mf-1o5" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="8" id="qoz-gP-TyF"/>
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="7M9-b9-Xox"/>
